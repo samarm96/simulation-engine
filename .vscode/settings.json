@@ -1,0 +1,13 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "java.debug.settings.onBuildFailureProceed": true
+
+}

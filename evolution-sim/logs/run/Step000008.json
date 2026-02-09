@@ -1,0 +1,2462 @@
+[ {
+  "id" : 8,
+  "components" : [ {
+    "maximumEnergy" : 20.06044983347337,
+    "intakeEfficiency" : 0.5180764881661406,
+    "consumptionRate" : 0.19480189710281118
+  }, {
+    "replicationChance" : 0.8476139771134967,
+    "reproductionCost" : 0.21381149082611936,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 4
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.45703716487256285
+  }, {
+    "amount" : 8.698259980109253
+  }, {
+    "deathChance" : 0.2057499044101172,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 6,
+  "components" : [ {
+    "maximumEnergy" : 20.013813455638,
+    "intakeEfficiency" : 0.6476831209672881,
+    "consumptionRate" : 0.2800454132415708
+  }, {
+    "replicationChance" : 0.8977222076772998,
+    "reproductionCost" : 0.19357040354040572,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 5
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5700324864873583
+  }, {
+    "amount" : 7.9310697153718355
+  }, {
+    "deathChance" : 0.1628128108145207,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 5,
+  "components" : [ {
+    "maximumEnergy" : 19.93674757790005,
+    "intakeEfficiency" : 0.47658450415675824,
+    "consumptionRate" : 0.21602291492026815
+  }, {
+    "replicationChance" : 0.8170606512387762,
+    "reproductionCost" : 0.24547973256785982,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 5
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5042490038916639
+  }, {
+    "amount" : 7.845388829099377
+  }, {
+    "deathChance" : 0.12547866461000087,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 3,
+  "components" : [ {
+    "maximumEnergy" : 19.97971949638772,
+    "intakeEfficiency" : 0.6043130283363507,
+    "consumptionRate" : 0.21171998232808378
+  }, {
+    "replicationChance" : 0.844049861754526,
+    "reproductionCost" : 0.1846568236883805,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 6
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5249942352818886
+  }, {
+    "amount" : 8.340240742067586
+  }, {
+    "deathChance" : 0.0777047332040396,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 2,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 7
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 5.985583042550401
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 0,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 10
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 3.085583042550399
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 115,
+  "components" : [ {
+    "maximumEnergy" : 19.993533320239607,
+    "intakeEfficiency" : 0.610741175790617,
+    "consumptionRate" : 0.3577314788125453
+  }, {
+    "replicationChance" : 0.9317253038353498,
+    "reproductionCost" : 0.39805096947859986,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.6176702527841235
+  }, {
+    "amount" : 9.996766660119803
+  }, {
+    "deathChance" : 0.1460221474240891,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 114,
+  "components" : [ {
+    "maximumEnergy" : 19.943538740649398,
+    "intakeEfficiency" : 0.47156268413223135,
+    "consumptionRate" : 0.04365372079860737
+  }, {
+    "replicationChance" : 0.7716837328464142,
+    "reproductionCost" : 0.36981604691077596,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.6069956418291133
+  }, {
+    "amount" : 9.971769370324699
+  }, {
+    "deathChance" : 0.036313550517068936,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 113,
+  "components" : [ {
+    "maximumEnergy" : 20.0663239368584,
+    "intakeEfficiency" : 0.5821571209300989,
+    "consumptionRate" : 0.15142843906882247
+  }, {
+    "replicationChance" : 0.8446157619689532,
+    "reproductionCost" : 0.24614142630866884,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.4673780922382259
+  }, {
+    "amount" : 10.0331619684292
+  }, {
+    "deathChance" : 1.0E-6,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 112,
+  "components" : [ {
+    "maximumEnergy" : 20.013813455638,
+    "intakeEfficiency" : 0.6476831209672881,
+    "consumptionRate" : 0.2800454132415708
+  }, {
+    "replicationChance" : 0.8977222076772998,
+    "reproductionCost" : 0.19357040354040572,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5700324864873583
+  }, {
+    "amount" : 10.006906727819
+  }, {
+    "deathChance" : 0.1628128108145207,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 111,
+  "components" : [ {
+    "maximumEnergy" : 19.74419949475482,
+    "intakeEfficiency" : 0.5673886187138427,
+    "consumptionRate" : 0.21256822301820488
+  }, {
+    "replicationChance" : 0.7212781298928082,
+    "reproductionCost" : 0.28385935830375136,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5621712218290236
+  }, {
+    "amount" : 9.87209974737741
+  }, {
+    "deathChance" : 0.3004988530979643,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 110,
+  "components" : [ {
+    "maximumEnergy" : 20.069234268491005,
+    "intakeEfficiency" : 0.5085411375403142,
+    "consumptionRate" : 0.2315761712314355
+  }, {
+    "replicationChance" : 0.8423133035023902,
+    "reproductionCost" : 0.24482192693870117,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.587376331915569
+  }, {
+    "amount" : 10.034617134245503
+  }, {
+    "deathChance" : 0.2613921439616181,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 109,
+  "components" : [ {
+    "maximumEnergy" : 20.11283088373859,
+    "intakeEfficiency" : 0.7004073187747604,
+    "consumptionRate" : 0.2094017251024128
+  }, {
+    "replicationChance" : 0.871608217299513,
+    "reproductionCost" : 0.1854927861893696,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5616603146717435
+  }, {
+    "amount" : 10.056415441869294
+  }, {
+    "deathChance" : 0.12076718235917748,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 108,
+  "components" : [ {
+    "maximumEnergy" : 19.962781611313982,
+    "intakeEfficiency" : 0.45858889963329047,
+    "consumptionRate" : 0.12183661774453963
+  }, {
+    "replicationChance" : 0.6464925239957134,
+    "reproductionCost" : 0.2851865520645106,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.45204877254247966
+  }, {
+    "amount" : 9.981390805656991
+  }, {
+    "deathChance" : 0.01866521029867517,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 107,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 10.0
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 106,
+  "components" : [ {
+    "maximumEnergy" : 20.01046157363151,
+    "intakeEfficiency" : 0.41813490715438884,
+    "consumptionRate" : 0.13636896716417157
+  }, {
+    "replicationChance" : 0.7118884038672275,
+    "reproductionCost" : 0.31374032460367757,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5690694414956209
+  }, {
+    "amount" : 10.005230786815755
+  }, {
+    "deathChance" : 0.06687191747608832,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 105,
+  "components" : [ {
+    "maximumEnergy" : 19.90153273566304,
+    "intakeEfficiency" : 0.4736918060411899,
+    "consumptionRate" : 0.2183642644718551
+  }, {
+    "replicationChance" : 0.7735363647681922,
+    "reproductionCost" : 0.23460427174640652,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.49953709843623084
+  }, {
+    "amount" : 9.95076636783152
+  }, {
+    "deathChance" : 0.10212377148601699,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 104,
+  "components" : [ {
+    "maximumEnergy" : 20.0270005169763,
+    "intakeEfficiency" : 0.40500801755207316,
+    "consumptionRate" : 0.04613823580632317
+  }, {
+    "replicationChance" : 0.7625183281726859,
+    "reproductionCost" : 0.2685688926878984,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5108721756075973
+  }, {
+    "amount" : 10.01350025848815
+  }, {
+    "deathChance" : 0.04596859941993607,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 103,
+  "components" : [ {
+    "maximumEnergy" : 20.006838989013723,
+    "intakeEfficiency" : 0.44352098806398654,
+    "consumptionRate" : 0.19764527760108386
+  }, {
+    "replicationChance" : 0.7672550299070034,
+    "reproductionCost" : 0.20320950944303917,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5907770682633804
+  }, {
+    "amount" : 10.003419494506861
+  }, {
+    "deathChance" : 0.08937069073397551,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 102,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 10.0
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 101,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 10.0
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 100,
+  "components" : [ {
+    "maximumEnergy" : 20.009823460062066,
+    "intakeEfficiency" : 0.5188530645632401,
+    "consumptionRate" : 0.12899201481710784
+  }, {
+    "replicationChance" : 0.8070719057131728,
+    "reproductionCost" : 0.21630090752482986,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5976128839242083
+  }, {
+    "amount" : 10.004911730031033
+  }, {
+    "deathChance" : 0.06276370625016003,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 99,
+  "components" : [ {
+    "maximumEnergy" : 19.950297233447067,
+    "intakeEfficiency" : 0.6227747647293932,
+    "consumptionRate" : 0.33952938724655235
+  }, {
+    "replicationChance" : 0.84515301079891,
+    "reproductionCost" : 0.19066325360750788,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.6005100605493154
+  }, {
+    "amount" : 9.975148616723533
+  }, {
+    "deathChance" : 0.15409128875889774,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 98,
+  "components" : [ {
+    "maximumEnergy" : 19.812997936218988,
+    "intakeEfficiency" : 0.44438449432785565,
+    "consumptionRate" : 0.15424658714978073
+  }, {
+    "replicationChance" : 0.7995138724078543,
+    "reproductionCost" : 0.23401486561702892,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.6553989724619471
+  }, {
+    "amount" : 9.906498968109494
+  }, {
+    "deathChance" : 0.2619761799591742,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 97,
+  "components" : [ {
+    "maximumEnergy" : 20.031725802288655,
+    "intakeEfficiency" : 0.6996540186385067,
+    "consumptionRate" : 0.21713272007218828
+  }, {
+    "replicationChance" : 0.8558951174865097,
+    "reproductionCost" : 0.2085735686905577,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5567552737704364
+  }, {
+    "amount" : 10.015862901144327
+  }, {
+    "deathChance" : 0.20372725804291347,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 96,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 10.0
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 95,
+  "components" : [ {
+    "maximumEnergy" : 20.027790722337155,
+    "intakeEfficiency" : 0.6564973745056091,
+    "consumptionRate" : 0.33747626654824064
+  }, {
+    "replicationChance" : 0.9541805233190723,
+    "reproductionCost" : 0.20392946318042807,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5712462126351776
+  }, {
+    "amount" : 10.013895361168577
+  }, {
+    "deathChance" : 0.1065413558982359,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 94,
+  "components" : [ {
+    "maximumEnergy" : 20.04517984450153,
+    "intakeEfficiency" : 0.6139264226324559,
+    "consumptionRate" : 0.23389693224087996
+  }, {
+    "replicationChance" : 0.9332744442533579,
+    "reproductionCost" : 0.32458460135132383,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.6827311813731463
+  }, {
+    "amount" : 10.022589922250765
+  }, {
+    "deathChance" : 0.12443812742413127,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 93,
+  "components" : [ {
+    "maximumEnergy" : 19.984103874801903,
+    "intakeEfficiency" : 0.45666209908417693,
+    "consumptionRate" : 0.003175492600814428
+  }, {
+    "replicationChance" : 0.7137458594453103,
+    "reproductionCost" : 0.1287390486660036,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5285306544939561
+  }, {
+    "amount" : 9.992051937400952
+  }, {
+    "deathChance" : 0.08101878280472699,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 92,
+  "components" : [ {
+    "maximumEnergy" : 19.970301228961137,
+    "intakeEfficiency" : 0.4915020985301342,
+    "consumptionRate" : 0.07658150830690094
+  }, {
+    "replicationChance" : 0.8023107875083884,
+    "reproductionCost" : 0.33911074890533865,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5260945228432405
+  }, {
+    "amount" : 9.985150614480569
+  }, {
+    "deathChance" : 0.052708992771590635,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 91,
+  "components" : [ {
+    "maximumEnergy" : 19.758417193422595,
+    "intakeEfficiency" : 0.6099402432439303,
+    "consumptionRate" : 0.09406262289802855
+  }, {
+    "replicationChance" : 0.8315374269273496,
+    "reproductionCost" : 0.20328167233303057,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.570866682084063
+  }, {
+    "amount" : 9.879208596711297
+  }, {
+    "deathChance" : 0.07341559281193676,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 90,
+  "components" : [ {
+    "maximumEnergy" : 19.995278776858346,
+    "intakeEfficiency" : 0.4613617161891818,
+    "consumptionRate" : 0.1940830109786424
+  }, {
+    "replicationChance" : 0.8875880451495956,
+    "reproductionCost" : 0.2932440027179589,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.4545780515270106
+  }, {
+    "amount" : 9.997639388429173
+  }, {
+    "deathChance" : 0.030297740288734873,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 89,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 10.0
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 88,
+  "components" : [ {
+    "maximumEnergy" : 20.013813455638,
+    "intakeEfficiency" : 0.6476831209672881,
+    "consumptionRate" : 0.2800454132415708
+  }, {
+    "replicationChance" : 0.8977222076772998,
+    "reproductionCost" : 0.19357040354040572,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5700324864873583
+  }, {
+    "amount" : 10.006906727819
+  }, {
+    "deathChance" : 0.1628128108145207,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 87,
+  "components" : [ {
+    "maximumEnergy" : 20.02160919588438,
+    "intakeEfficiency" : 0.4970813336024761,
+    "consumptionRate" : 0.2737558301356663
+  }, {
+    "replicationChance" : 0.8489018820722157,
+    "reproductionCost" : 0.21109084675843018,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.46693804315767035
+  }, {
+    "amount" : 10.01080459794219
+  }, {
+    "deathChance" : 0.19211562754769204,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 86,
+  "components" : [ {
+    "maximumEnergy" : 19.980157093811773,
+    "intakeEfficiency" : 0.3987064549997976,
+    "consumptionRate" : 0.3260222257260573
+  }, {
+    "replicationChance" : 0.8394188110831938,
+    "reproductionCost" : 0.28137963590129955,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.6496761847675185
+  }, {
+    "amount" : 9.990078546905886
+  }, {
+    "deathChance" : 0.03861052365109904,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 85,
+  "components" : [ {
+    "maximumEnergy" : 19.94842491764638,
+    "intakeEfficiency" : 0.4968310397146434,
+    "consumptionRate" : 0.06750418330249827
+  }, {
+    "replicationChance" : 0.7568553023979259,
+    "reproductionCost" : 0.1911443307174148,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5301673506114911
+  }, {
+    "amount" : 9.97421245882319
+  }, {
+    "deathChance" : 0.18924098798734845,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 84,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 10.0
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 83,
+  "components" : [ {
+    "maximumEnergy" : 20.0447351260513,
+    "intakeEfficiency" : 0.43897351715885136,
+    "consumptionRate" : 0.25973869833960933
+  }, {
+    "replicationChance" : 0.767259280250735,
+    "reproductionCost" : 0.3187522864121148,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.45183513762384636
+  }, {
+    "amount" : 10.02236756302565
+  }, {
+    "deathChance" : 0.07971298501399278,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 82,
+  "components" : [ {
+    "maximumEnergy" : 20.055751939545164,
+    "intakeEfficiency" : 0.5786050591745265,
+    "consumptionRate" : 0.30142351277006485
+  }, {
+    "replicationChance" : 0.9374310979219427,
+    "reproductionCost" : 0.15316997125896986,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5752965362181991
+  }, {
+    "amount" : 10.027875969772582
+  }, {
+    "deathChance" : 0.20479737106041426,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 81,
+  "components" : [ {
+    "maximumEnergy" : 20.04284037436307,
+    "intakeEfficiency" : 0.5032497881197221,
+    "consumptionRate" : 0.1791541194876261
+  }, {
+    "replicationChance" : 0.8414235335910566,
+    "reproductionCost" : 0.1403124151709334,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.4945528248549899
+  }, {
+    "amount" : 10.021420187181535
+  }, {
+    "deathChance" : 0.15880575732497254,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 80,
+  "components" : [ {
+    "maximumEnergy" : 20.049796887463355,
+    "intakeEfficiency" : 0.5097994353321968,
+    "consumptionRate" : 0.07597472677993868
+  }, {
+    "replicationChance" : 0.8337841651526162,
+    "reproductionCost" : 0.3024158837935582,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.6125463990213115
+  }, {
+    "amount" : 10.024898443731677
+  }, {
+    "deathChance" : 0.1966375601794682,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 79,
+  "components" : [ {
+    "maximumEnergy" : 19.88862498793124,
+    "intakeEfficiency" : 0.5143536995824611,
+    "consumptionRate" : 0.3346075248419163
+  }, {
+    "replicationChance" : 0.8107255483973933,
+    "reproductionCost" : 0.17311355380966428,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.6315262074461384
+  }, {
+    "amount" : 9.94431249396562
+  }, {
+    "deathChance" : 0.14022385536423093,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 78,
+  "components" : [ {
+    "maximumEnergy" : 19.97971949638772,
+    "intakeEfficiency" : 0.6043130283363507,
+    "consumptionRate" : 0.21171998232808378
+  }, {
+    "replicationChance" : 0.844049861754526,
+    "reproductionCost" : 0.1846568236883805,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5249942352818886
+  }, {
+    "amount" : 9.98985974819386
+  }, {
+    "deathChance" : 0.0777047332040396,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 77,
+  "components" : [ {
+    "maximumEnergy" : 20.047192944583585,
+    "intakeEfficiency" : 0.4665196849151434,
+    "consumptionRate" : 0.11800654985104943
+  }, {
+    "replicationChance" : 0.8381160536539606,
+    "reproductionCost" : 0.158355353881781,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.4762019287005031
+  }, {
+    "amount" : 10.023596472291793
+  }, {
+    "deathChance" : 0.11811790235910902,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 76,
+  "components" : [ {
+    "maximumEnergy" : 20.067377242968167,
+    "intakeEfficiency" : 0.6234710768657719,
+    "consumptionRate" : 0.35245054809369186
+  }, {
+    "replicationChance" : 0.8338233040475127,
+    "reproductionCost" : 0.17688727489198935,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5766930863201661
+  }, {
+    "amount" : 10.033688621484083
+  }, {
+    "deathChance" : 0.23389673246141618,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 75,
+  "components" : [ {
+    "maximumEnergy" : 19.995604305456805,
+    "intakeEfficiency" : 0.3791910898049212,
+    "consumptionRate" : 0.11317002260851095
+  }, {
+    "replicationChance" : 0.8461331450418962,
+    "reproductionCost" : 0.29556478239319095,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5127247316589717
+  }, {
+    "amount" : 9.997802152728402
+  }, {
+    "deathChance" : 0.11240518138946795,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 74,
+  "components" : [ {
+    "maximumEnergy" : 19.93381646720413,
+    "intakeEfficiency" : 0.5046161570510511,
+    "consumptionRate" : 0.12451267721751988
+  }, {
+    "replicationChance" : 0.84471658058785,
+    "reproductionCost" : 0.16494387319469989,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5877747839951694
+  }, {
+    "amount" : 9.966908233602066
+  }, {
+    "deathChance" : 0.04151142552680377,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 73,
+  "components" : [ {
+    "maximumEnergy" : 20.104492547133802,
+    "intakeEfficiency" : 0.576287203392177,
+    "consumptionRate" : 0.23453986465662396
+  }, {
+    "replicationChance" : 0.860587344691251,
+    "reproductionCost" : 0.13627630458998377,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.48441314182197764
+  }, {
+    "amount" : 10.052246273566901
+  }, {
+    "deathChance" : 0.14554137171471332,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 72,
+  "components" : [ {
+    "maximumEnergy" : 20.013813455638,
+    "intakeEfficiency" : 0.6476831209672881,
+    "consumptionRate" : 0.2800454132415708
+  }, {
+    "replicationChance" : 0.8977222076772998,
+    "reproductionCost" : 0.19357040354040572,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5700324864873583
+  }, {
+    "amount" : 10.006906727819
+  }, {
+    "deathChance" : 0.1628128108145207,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 71,
+  "components" : [ {
+    "maximumEnergy" : 19.93674757790005,
+    "intakeEfficiency" : 0.47658450415675824,
+    "consumptionRate" : 0.21602291492026815
+  }, {
+    "replicationChance" : 0.8170606512387762,
+    "reproductionCost" : 0.24547973256785982,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5042490038916639
+  }, {
+    "amount" : 9.968373788950025
+  }, {
+    "deathChance" : 0.12547866461000087,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 70,
+  "components" : [ {
+    "maximumEnergy" : 19.986376848291314,
+    "intakeEfficiency" : 0.5723881817863943,
+    "consumptionRate" : 0.21527760069019725
+  }, {
+    "replicationChance" : 0.8682991748792819,
+    "reproductionCost" : 0.1545222777785131,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.46616681641526503
+  }, {
+    "amount" : 9.993188424145657
+  }, {
+    "deathChance" : 0.03712750952954831,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 69,
+  "components" : [ {
+    "maximumEnergy" : 19.85455763096781,
+    "intakeEfficiency" : 0.4327715920129268,
+    "consumptionRate" : 0.16657777229176057
+  }, {
+    "replicationChance" : 0.801725439544105,
+    "reproductionCost" : 0.25343316566682966,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5649252502791244
+  }, {
+    "amount" : 9.927278815483906
+  }, {
+    "deathChance" : 0.08903086220854128,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 68,
+  "components" : [ {
+    "maximumEnergy" : 20.052165930874228,
+    "intakeEfficiency" : 0.5981279541562382,
+    "consumptionRate" : 0.24886171896549053
+  }, {
+    "replicationChance" : 0.7537599686863853,
+    "reproductionCost" : 0.2410126221695783,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 0
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.4593400171818096
+  }, {
+    "amount" : 10.026082965437114
+  }, {
+    "deathChance" : 0.016333712244243667,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 66,
+  "components" : [ {
+    "maximumEnergy" : 20.014486006332994,
+    "intakeEfficiency" : 0.588403027325235,
+    "consumptionRate" : 0.2981782905217539
+  }, {
+    "replicationChance" : 0.9379290003262638,
+    "reproductionCost" : 0.37693235105070544,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5763599856471704
+  }, {
+    "amount" : 9.332132361594038
+  }, {
+    "deathChance" : 0.15148074116177704,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 65,
+  "components" : [ {
+    "maximumEnergy" : 19.943538740649398,
+    "intakeEfficiency" : 0.47156268413223135,
+    "consumptionRate" : 0.04365372079860737
+  }, {
+    "replicationChance" : 0.7716837328464142,
+    "reproductionCost" : 0.36981604691077596,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.6069956418291133
+  }, {
+    "amount" : 9.558299602615316
+  }, {
+    "deathChance" : 0.036313550517068936,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 64,
+  "components" : [ {
+    "maximumEnergy" : 19.8959817455232,
+    "intakeEfficiency" : 0.5146085538605407,
+    "consumptionRate" : 0.2175133428661133
+  }, {
+    "replicationChance" : 0.7431298183291554,
+    "reproductionCost" : 0.25244794303910184,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.61069592966149
+  }, {
+    "amount" : 9.730477529895488
+  }, {
+    "deathChance" : 0.041170677779277215,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 63,
+  "components" : [ {
+    "maximumEnergy" : 20.023301902936353,
+    "intakeEfficiency" : 0.5045707457557299,
+    "consumptionRate" : 0.14481036214710025
+  }, {
+    "replicationChance" : 0.8109472179797891,
+    "reproductionCost" : 0.2047943185710956,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.4466530035404574
+  }, {
+    "amount" : 9.66204627074998
+  }, {
+    "deathChance" : 0.03360686752628626,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 62,
+  "components" : [ {
+    "maximumEnergy" : 20.013813455638,
+    "intakeEfficiency" : 0.6476831209672881,
+    "consumptionRate" : 0.2800454132415708
+  }, {
+    "replicationChance" : 0.8977222076772998,
+    "reproductionCost" : 0.19357040354040572,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5700324864873583
+  }, {
+    "amount" : 9.533290911037025
+  }, {
+    "deathChance" : 0.1628128108145207,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 61,
+  "components" : [ {
+    "maximumEnergy" : 19.783925151419588,
+    "intakeEfficiency" : 0.5824891999729767,
+    "consumptionRate" : 0.22172290440239326
+  }, {
+    "replicationChance" : 0.7238172116005733,
+    "reproductionCost" : 0.2657904671740212,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.49274906958055886
+  }, {
+    "amount" : 9.40444920413338
+  }, {
+    "deathChance" : 0.28756369622363775,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 60,
+  "components" : [ {
+    "maximumEnergy" : 20.036394130597383,
+    "intakeEfficiency" : 0.4308199439578657,
+    "consumptionRate" : 0.2694155316123739
+  }, {
+    "replicationChance" : 0.8804349406735172,
+    "reproductionCost" : 0.27019396299134285,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5539529771872463
+  }, {
+    "amount" : 9.478587570694975
+  }, {
+    "deathChance" : 0.18407044223310853,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 59,
+  "components" : [ {
+    "maximumEnergy" : 20.11283088373859,
+    "intakeEfficiency" : 0.7004073187747604,
+    "consumptionRate" : 0.2094017251024128
+  }, {
+    "replicationChance" : 0.871608217299513,
+    "reproductionCost" : 0.1854927861893696,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5616603146717435
+  }, {
+    "amount" : 9.661520930577511
+  }, {
+    "deathChance" : 0.12076718235917748,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 58,
+  "components" : [ {
+    "maximumEnergy" : 19.98012612638424,
+    "intakeEfficiency" : 0.4994621052915738,
+    "consumptionRate" : 0.27508365025697323
+  }, {
+    "replicationChance" : 0.9079386514806185,
+    "reproductionCost" : 0.25773897636127324,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5520133310294504
+  }, {
+    "amount" : 9.714979412935145
+  }, {
+    "deathChance" : 0.04448845877316941,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 57,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 9.600000000000001
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 56,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 9.600000000000001
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 55,
+  "components" : [ {
+    "maximumEnergy" : 20.037660352307338,
+    "intakeEfficiency" : 0.4240782398975172,
+    "consumptionRate" : 0.1905912317123252
+  }, {
+    "replicationChance" : 0.7787778244846936,
+    "reproductionCost" : 0.2869065389972094,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5101675682227855
+  }, {
+    "amount" : 9.541332405444134
+  }, {
+    "deathChance" : 0.14412039145387745,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 54,
+  "components" : [ {
+    "maximumEnergy" : 20.009103118011303,
+    "intakeEfficiency" : 0.5214804099809496,
+    "consumptionRate" : 0.16242507369183984
+  }, {
+    "replicationChance" : 0.8159934636677739,
+    "reproductionCost" : 0.27680234591819075,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5547408766007149
+  }, {
+    "amount" : 9.565324139395623
+  }, {
+    "deathChance" : 0.19076699945280173,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 53,
+  "components" : [ {
+    "maximumEnergy" : 19.865519645933485,
+    "intakeEfficiency" : 0.4640827914953476,
+    "consumptionRate" : 0.12480264055374823
+  }, {
+    "replicationChance" : 0.716416741237381,
+    "reproductionCost" : 0.2311364121179211,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.4365996192401458
+  }, {
+    "amount" : 9.807957182412995
+  }, {
+    "deathChance" : 1.0E-6,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 52,
+  "components" : [ {
+    "maximumEnergy" : 20.049796887463355,
+    "intakeEfficiency" : 0.5097994353321968,
+    "consumptionRate" : 0.07597472677993868
+  }, {
+    "replicationChance" : 0.8337841651526162,
+    "reproductionCost" : 0.3024158837935582,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.6125463990213115
+  }, {
+    "amount" : 9.94892371695174
+  }, {
+    "deathChance" : 0.1966375601794682,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 51,
+  "components" : [ {
+    "maximumEnergy" : 19.970301228961137,
+    "intakeEfficiency" : 0.4915020985301342,
+    "consumptionRate" : 0.07658150830690094
+  }, {
+    "replicationChance" : 0.8023107875083884,
+    "reproductionCost" : 0.33911074890533865,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5260945228432405
+  }, {
+    "amount" : 9.569458357268328
+  }, {
+    "deathChance" : 0.052708992771590635,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 50,
+  "components" : [ {
+    "maximumEnergy" : 19.99974647913594,
+    "intakeEfficiency" : 0.4688405616943684,
+    "consumptionRate" : 0.1397171642322138
+  }, {
+    "replicationChance" : 0.8787420393321163,
+    "reproductionCost" : 0.27049485283059643,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.46238563782068465
+  }, {
+    "amount" : 9.860156075335755
+  }, {
+    "deathChance" : 0.11772300272965586,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 49,
+  "components" : [ {
+    "maximumEnergy" : 20.02072387402535,
+    "intakeEfficiency" : 0.481772715736236,
+    "consumptionRate" : 0.22853633050193398
+  }, {
+    "replicationChance" : 0.7448413366173153,
+    "reproductionCost" : 0.14930982064957918,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5999876632461771
+  }, {
+    "amount" : 9.632515785861163
+  }, {
+    "deathChance" : 0.12285307926122249,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 48,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 9.600000000000001
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 47,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 9.600000000000001
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 46,
+  "components" : [ {
+    "maximumEnergy" : 19.93674757790005,
+    "intakeEfficiency" : 0.47658450415675824,
+    "consumptionRate" : 0.21602291492026815
+  }, {
+    "replicationChance" : 0.8170606512387762,
+    "reproductionCost" : 0.24547973256785982,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5042490038916639
+  }, {
+    "amount" : 9.752350874029757
+  }, {
+    "deathChance" : 0.12547866461000087,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 45,
+  "components" : [ {
+    "maximumEnergy" : 20.009823460062066,
+    "intakeEfficiency" : 0.5188530645632401,
+    "consumptionRate" : 0.12899201481710784
+  }, {
+    "replicationChance" : 0.8070719057131728,
+    "reproductionCost" : 0.21630090752482986,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5976128839242083
+  }, {
+    "amount" : 9.659618807689096
+  }, {
+    "deathChance" : 0.06276370625016003,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 43,
+  "components" : [ {
+    "maximumEnergy" : 20.013813455638,
+    "intakeEfficiency" : 0.6476831209672881,
+    "consumptionRate" : 0.2800454132415708
+  }, {
+    "replicationChance" : 0.8977222076772998,
+    "reproductionCost" : 0.19357040354040572,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5700324864873583
+  }, {
+    "amount" : 9.533290911037025
+  }, {
+    "deathChance" : 0.1628128108145207,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 42,
+  "components" : [ {
+    "maximumEnergy" : 19.965963017857916,
+    "intakeEfficiency" : 0.46422343907444763,
+    "consumptionRate" : 0.19271596036794988
+  }, {
+    "replicationChance" : 0.8597178316278248,
+    "reproductionCost" : 0.24541377593339708,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.6474742186466005
+  }, {
+    "amount" : 9.544851772627611
+  }, {
+    "deathChance" : 0.18057540618790968,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 40,
+  "components" : [ {
+    "maximumEnergy" : 20.031725802288655,
+    "intakeEfficiency" : 0.6996540186385067,
+    "consumptionRate" : 0.21713272007218828
+  }, {
+    "replicationChance" : 0.8558951174865097,
+    "reproductionCost" : 0.2085735686905577,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5567552737704364
+  }, {
+    "amount" : 9.590156612381582
+  }, {
+    "deathChance" : 0.20372725804291347,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 39,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 1
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 9.600000000000001
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 38,
+  "components" : [ {
+    "maximumEnergy" : 20.055751939545164,
+    "intakeEfficiency" : 0.5786050591745265,
+    "consumptionRate" : 0.30142351277006485
+  }, {
+    "replicationChance" : 0.9374310979219427,
+    "reproductionCost" : 0.15316997125896986,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 2
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5752965362181991
+  }, {
+    "amount" : 9.118689001714513
+  }, {
+    "deathChance" : 0.20479737106041426,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 37,
+  "components" : [ {
+    "maximumEnergy" : 20.014486006332994,
+    "intakeEfficiency" : 0.588403027325235,
+    "consumptionRate" : 0.2981782905217539
+  }, {
+    "replicationChance" : 0.9379290003262638,
+    "reproductionCost" : 0.37693235105070544,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 2
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5763599856471704
+  }, {
+    "amount" : 8.657021720021579
+  }, {
+    "deathChance" : 0.15148074116177704,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 36,
+  "components" : [ {
+    "maximumEnergy" : 19.856719942313042,
+    "intakeEfficiency" : 0.4954187417374495,
+    "consumptionRate" : 0.09810887403920664
+  }, {
+    "replicationChance" : 0.671471742299839,
+    "reproductionCost" : 0.2452891262667714,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 2
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.48247885264945867
+  }, {
+    "amount" : 9.486853096811336
+  }, {
+    "deathChance" : 0.03368879266781824,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 35,
+  "components" : [ {
+    "maximumEnergy" : 19.970301228961137,
+    "intakeEfficiency" : 0.4915020985301342,
+    "consumptionRate" : 0.07658150830690094
+  }, {
+    "replicationChance" : 0.8023107875083884,
+    "reproductionCost" : 0.33911074890533865,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 2
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5260945228432405
+  }, {
+    "amount" : 9.153766100056087
+  }, {
+    "deathChance" : 0.052708992771590635,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 34,
+  "components" : [ {
+    "maximumEnergy" : 19.88309509474052,
+    "intakeEfficiency" : 0.5683583185286989,
+    "consumptionRate" : 0.19314967482478576
+  }, {
+    "replicationChance" : 0.8136270576317571,
+    "reproductionCost" : 0.20780870528752454,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 2
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.507151133870173
+  }, {
+    "amount" : 9.139630787145638
+  }, {
+    "deathChance" : 0.04559973790388696,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 33,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 2
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 9.200000000000003
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 32,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 2
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 9.400000000000002
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 31,
+  "components" : [ {
+    "maximumEnergy" : 20.013813455638,
+    "intakeEfficiency" : 0.6476831209672881,
+    "consumptionRate" : 0.2800454132415708
+  }, {
+    "replicationChance" : 0.8977222076772998,
+    "reproductionCost" : 0.19357040354040572,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 2
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5700324864873583
+  }, {
+    "amount" : 9.059675094255049
+  }, {
+    "deathChance" : 0.1628128108145207,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 30,
+  "components" : [ {
+    "maximumEnergy" : 19.898065611272635,
+    "intakeEfficiency" : 0.5148196169041058,
+    "consumptionRate" : 0.20632201415617554
+  }, {
+    "replicationChance" : 0.7011928037399946,
+    "reproductionCost" : 0.2839820527165765,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 2
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.49909644849418205
+  }, {
+    "amount" : 9.252406724607392
+  }, {
+    "deathChance" : 0.22828520785887188,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 29,
+  "components" : [ {
+    "maximumEnergy" : 20.000240926107356,
+    "intakeEfficiency" : 0.5110779432616823,
+    "consumptionRate" : 0.18136141372974118
+  }, {
+    "replicationChance" : 0.7823840067225776,
+    "reproductionCost" : 0.23370323083432706,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 2
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5513382802245557
+  }, {
+    "amount" : 9.637397635594196
+  }, {
+    "deathChance" : 0.02938403653026843,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 28,
+  "components" : [ {
+    "maximumEnergy" : 20.02160919588438,
+    "intakeEfficiency" : 0.4970813336024761,
+    "consumptionRate" : 0.2737558301356663
+  }, {
+    "replicationChance" : 0.8489018820722157,
+    "reproductionCost" : 0.21109084675843018,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 2
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.46693804315767035
+  }, {
+    "amount" : 9.041111244153996
+  }, {
+    "deathChance" : 0.19211562754769204,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 25,
+  "components" : [ {
+    "maximumEnergy" : 19.98012612638424,
+    "intakeEfficiency" : 0.4994621052915738,
+    "consumptionRate" : 0.27508365025697323
+  }, {
+    "replicationChance" : 0.9079386514806185,
+    "reproductionCost" : 0.25773897636127324,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 2
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5520133310294504
+  }, {
+    "amount" : 8.924417809955626
+  }, {
+    "deathChance" : 0.04448845877316941,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 24,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 2
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 9.200000000000003
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 23,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 2
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 9.200000000000003
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 22,
+  "components" : [ {
+    "maximumEnergy" : 20.037660352307338,
+    "intakeEfficiency" : 0.4240782398975172,
+    "consumptionRate" : 0.1905912317123252
+  }, {
+    "replicationChance" : 0.7787778244846936,
+    "reproductionCost" : 0.2869065389972094,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 2
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5101675682227855
+  }, {
+    "amount" : 9.063834634734599
+  }, {
+    "deathChance" : 0.14412039145387745,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 21,
+  "components" : [ {
+    "maximumEnergy" : 20.055751939545164,
+    "intakeEfficiency" : 0.5786050591745265,
+    "consumptionRate" : 0.30142351277006485
+  }, {
+    "replicationChance" : 0.9374310979219427,
+    "reproductionCost" : 0.15316997125896986,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 3
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5752965362181991
+  }, {
+    "amount" : 8.91630305174287
+  }, {
+    "deathChance" : 0.20479737106041426,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 20,
+  "components" : [ {
+    "maximumEnergy" : 19.981828296693454,
+    "intakeEfficiency" : 0.5143937598158183,
+    "consumptionRate" : 0.23548718806381908
+  }, {
+    "replicationChance" : 0.8501427105971515,
+    "reproductionCost" : 0.2964914165334437,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 3
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5124834888445098
+  }, {
+    "amount" : 8.483025100622893
+  }, {
+    "deathChance" : 0.14426010350298238,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 19,
+  "components" : [ {
+    "maximumEnergy" : 19.85122335219729,
+    "intakeEfficiency" : 0.4692187260210638,
+    "consumptionRate" : 0.12378965139627496
+  }, {
+    "replicationChance" : 0.6733212673972335,
+    "reproductionCost" : 0.22424761696908302,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 3
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5114021590870187
+  }, {
+    "amount" : 9.163831910494407
+  }, {
+    "deathChance" : 0.019284293967098215,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 18,
+  "components" : [ {
+    "maximumEnergy" : 20.049796887463355,
+    "intakeEfficiency" : 0.5097994353321968,
+    "consumptionRate" : 0.07597472677993868
+  }, {
+    "replicationChance" : 0.8337841651526162,
+    "reproductionCost" : 0.3024158837935582,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 3
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.6125463990213115
+  }, {
+    "amount" : 9.230874368616679
+  }, {
+    "deathChance" : 0.1966375601794682,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 17,
+  "components" : [ {
+    "maximumEnergy" : 19.887177967400845,
+    "intakeEfficiency" : 0.5802952668591939,
+    "consumptionRate" : 0.30665965736500955
+  }, {
+    "replicationChance" : 0.8248558025023076,
+    "reproductionCost" : 0.187336561880651,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 3
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.6660138892095436
+  }, {
+    "amount" : 8.935600318755556
+  }, {
+    "deathChance" : 0.1106793887044569,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 15,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 3
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 9.285583042550405
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 14,
+  "components" : [ {
+    "maximumEnergy" : 19.97971949638772,
+    "intakeEfficiency" : 0.6043130283363507,
+    "consumptionRate" : 0.21171998232808378
+  }, {
+    "replicationChance" : 0.844049861754526,
+    "reproductionCost" : 0.1846568236883805,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 3
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5249942352818886
+  }, {
+    "amount" : 8.904167225380212
+  }, {
+    "deathChance" : 0.0777047332040396,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 13,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 3
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 8.885583042550406
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 12,
+  "components" : [ {
+    "maximumEnergy" : 20.0,
+    "intakeEfficiency" : 0.5,
+    "consumptionRate" : 0.2
+  }, {
+    "replicationChance" : 0.8,
+    "reproductionCost" : 0.2,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 3
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5
+  }, {
+    "amount" : 9.085583042550406
+  }, {
+    "deathChance" : 0.1,
+    "maxAge" : 20
+  } ]
+}, {
+  "id" : 11,
+  "components" : [ {
+    "maximumEnergy" : 20.013813455638,
+    "intakeEfficiency" : 0.6476831209672881,
+    "consumptionRate" : 0.2800454132415708
+  }, {
+    "replicationChance" : 0.8977222076772998,
+    "reproductionCost" : 0.19357040354040572,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 4
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5700324864873583
+  }, {
+    "amount" : 8.416875248433342
+  }, {
+    "deathChance" : 0.1628128108145207,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 10,
+  "components" : [ {
+    "maximumEnergy" : 19.93674757790005,
+    "intakeEfficiency" : 0.47658450415675824,
+    "consumptionRate" : 0.21602291492026815
+  }, {
+    "replicationChance" : 0.8170606512387762,
+    "reproductionCost" : 0.24547973256785982,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 4
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5042490038916639
+  }, {
+    "amount" : 8.203938302793732
+  }, {
+    "deathChance" : 0.12547866461000087,
+    "maxAge" : 0
+  } ]
+}, {
+  "id" : 9,
+  "components" : [ {
+    "maximumEnergy" : 20.000240926107356,
+    "intakeEfficiency" : 0.5110779432616823,
+    "consumptionRate" : 0.18136141372974118
+  }, {
+    "replicationChance" : 0.7823840067225776,
+    "reproductionCost" : 0.23370323083432706,
+    "mutationChance" : 0.5
+  }, {
+    "age" : 4
+  }, {
+    "x" : 1,
+    "y" : 2
+  }, {
+    "movementEfficiency" : 0.5513382802245557
+  }, {
+    "amount" : 8.427341095526875
+  }, {
+    "deathChance" : 0.02938403653026843,
+    "maxAge" : 0
+  } ]
+} ]
