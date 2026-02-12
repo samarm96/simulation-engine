@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.sime.commands.DeleteEntityCommandTest" time="0.027" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.sime.commands.DeleteEntityCommandTest" time="0.031" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="25"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/25.0.1/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/samarmathur/Documents/Coding Projects/simulation-engine/sim-core/target/surefire/surefirebooter-20260208184156620_3.jar /Users/samarmathur/Documents/Coding Projects/simulation-engine/sim-core/target/surefire 2026-02-08T18-41-56_502-jvmRun1 surefire-20260208184156620_1tmp surefire_0-20260208184156620_2tmp"/>
+    <property name="sun.java.command" value="/Users/samarmathur/Documents/Coding Projects/simulation-engine/sim-core/target/surefire/surefirebooter-20260212084430476_3.jar /Users/samarmathur/Documents/Coding Projects/simulation-engine/sim-core/target/surefire 2026-02-12T08-44-30_403-jvmRun1 surefire-20260212084430476_1tmp surefire_0-20260212084430476_2tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/samarmathur/Documents/Coding Projects/simulation-engine/sim-core/target/test-classes:/Users/samarmathur/Documents/Coding Projects/simulation-engine/sim-core/target/classes:/Users/samarmathur/.m2/repository/tools/jackson/core/jackson-databind/3.0.3/jackson-databind-3.0.3.jar:/Users/samarmathur/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.20/jackson-annotations-2.20.jar:/Users/samarmathur/.m2/repository/tools/jackson/core/jackson-core/3.0.3/jackson-core-3.0.3.jar:/Users/samarmathur/.m2/repository/org/junit/jupiter/junit-jupiter-api/6.0.1/junit-jupiter-api-6.0.1.jar:/Users/samarmathur/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/samarmathur/.m2/repository/org/junit/platform/junit-platform-commons/6.0.1/junit-platform-commons-6.0.1.jar:/Users/samarmathur/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/samarmathur/.m2/repository/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar:"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/samarmathur/Documents/Coding Projects/simulation-engine/sim-core/target/surefire/surefirebooter-20260208184156620_3.jar"/>
+    <property name="surefire.real.class.path" value="/Users/samarmathur/Documents/Coding Projects/simulation-engine/sim-core/target/surefire/surefirebooter-20260212084430476_3.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="25.0.1"/>
@@ -59,6 +59,6 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="69.0"/>
   </properties>
-  <testcase name="test_delete" classname="com.sime.commands.DeleteEntityCommandTest" time="0.013"/>
-  <testcase name="test_delete_multiple_components" classname="com.sime.commands.DeleteEntityCommandTest" time="0.003"/>
+  <testcase name="test_delete" classname="com.sime.commands.DeleteEntityCommandTest" time="0.017"/>
+  <testcase name="test_delete_multiple_components" classname="com.sime.commands.DeleteEntityCommandTest" time="0.004"/>
 </testsuite>

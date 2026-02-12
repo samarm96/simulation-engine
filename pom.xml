@@ -25,10 +25,6 @@
 
         <!-- Evolution Modules -->
         <module>evolution-sim</module>
-
-        <!-- RPG Modules -->
-        <module>rpg</module>
-
     </modules>
 
     <dependencyManagement>
