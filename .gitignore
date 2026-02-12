@@ -1,2 +1,8 @@
-# Ignore
+# Ignore VSCode
 .vscode/
+
+# Ignore Java build artifacts
+.classpath
+.project
+.settings/
+target/
