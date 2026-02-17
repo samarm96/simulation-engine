@@ -18,5 +18,5 @@ public abstract class WorldCommand {
         return this.id;
     }
 
-    abstract void apply(World w);
+    public abstract void apply(World w);
 }

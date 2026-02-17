@@ -3,6 +3,7 @@ package com.sime.gui.shapes;
 import java.nio.DoubleBuffer;
 import org.lwjgl.BufferUtils;
 
+import static org.lwjgl.opengl.GL11.GL_DOUBLE;
 import static org.lwjgl.opengl.GL11.GL_TRIANGLE_FAN;
 import static org.lwjgl.opengl.GL15.*;
 import static org.lwjgl.opengl.GL20.*;
@@ -50,15 +51,5 @@ public final class CircleMesh2D extends BasicMesh2D {
         }
 
         upload(buffer);
-    }
-
-    public double[] circle(double cx, double cy, double r) {
-        double[] xy = new double[vertexCount * 2];
-        for (int i = 0; i < vertexCount; i++) {
-            double a = (2.0 * Math.PI * i) / vertexCount;
-            xy[2*i]     = cx + r * Math.cos(a);
-            xy[2*i + 1] = cy + r * Math.sin(a);
-        }
-        return xy;
     }
 }

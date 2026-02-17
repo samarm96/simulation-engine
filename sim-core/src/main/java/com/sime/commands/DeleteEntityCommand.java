@@ -9,7 +9,7 @@ public class DeleteEntityCommand extends WorldCommand {
     }
 
     @Override
-    void apply(World w) {
+    public void apply(World w) {
         w.getComponentRegistry().destroy(id);
         w.getEntityManager().destroy(id);
     }

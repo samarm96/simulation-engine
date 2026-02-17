@@ -19,7 +19,6 @@ public final class CircleRenderer2D implements ShapeRenderer {
 
     public void begin(Camera2D camera) {
         glClear(GL_COLOR_BUFFER_BIT);
-
         shader.use();
         shader.setMat4("uWorldToClip", camera.worldToClipMatrix());
     }

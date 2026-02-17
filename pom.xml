@@ -18,13 +18,6 @@
         <!-- Core Modules -->
         <module>sim-core</module>
         <module>sim-gui-core</module>
-
-        <!-- Orbital Mechanics Modules -->
-        <module>orbital-mechanics-sim</module>
-        <module>orbital-mechanics-gui</module>
-
-        <!-- Evolution Modules -->
-        <module>evolution-sim</module>
     </modules>
 
     <dependencyManagement>

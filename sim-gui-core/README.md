@@ -1,1 +1,4 @@
 An abstract GUI library that is built to easily visualize simulations created by sim-core. See orbital-mechanics-gui as an eaxample. Uses LWJGL (https://www.lwjgl.org/) as a dependency to perform visualizations. This library is relatively immature compared to sim-core, and needs active effort to devleop further. 
+
+
+Run with: mvn exec:exec
