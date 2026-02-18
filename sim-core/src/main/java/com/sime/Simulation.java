@@ -98,11 +98,13 @@ public class Simulation {
     public void accept(WorldCommand command) {
         this.buffer.add(command);
         buffer.applyAll(world);
+        buffer.clear();
     }
 
     public void accept(Collection<WorldCommand> command) {
         command.forEach(c -> this.buffer.add(c));
         buffer.applyAll(world);
+        buffer.clear();
     }
 
     public SimulationClock getClock() {
