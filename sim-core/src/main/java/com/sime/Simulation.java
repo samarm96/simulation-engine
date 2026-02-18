@@ -1,11 +1,13 @@
 package com.sime;
 
 import java.io.IOException;
+import java.util.Collection;
 import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility;
 import com.sime.commands.CommandBuffer;
+import com.sime.commands.WorldCommand;
 import com.sime.reporting.Observer;
 import com.sime.save.SaveUtility;
 import com.sime.scenario.Scenario;
@@ -91,6 +93,16 @@ public class Simulation {
             obs.onStep(world, stepCount);
         } 
         clock.advance();
+    }
+
+    public void accept(WorldCommand command) {
+        this.buffer.add(command);
+        buffer.applyAll(world);
+    }
+
+    public void accept(Collection<WorldCommand> command) {
+        command.forEach(c -> this.buffer.add(c));
+        buffer.applyAll(world);
     }
 
     public SimulationClock getClock() {
