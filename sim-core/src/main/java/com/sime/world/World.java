@@ -1,10 +1,14 @@
 package com.sime.world;
 
+import java.util.HashMap;
+import java.util.Map;
+
 import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.JsonAutoDetect.Visibility;
 import com.sime.components.ComponentRegistry;
 import com.sime.entities.EntityManager;
 import com.sime.model.SimulationModel;
+import com.sime.resources.ResourceKey;
 import com.sime.spatial.FieldStore;
 
 /**
@@ -17,6 +21,7 @@ public class World {
     private ComponentRegistry componentRegistry;
     private FieldStore fieldStore;
     private SimulationModel model;
+    private Map<ResourceKey<?>, Object> resources;
 
     /**
      * Constructor. 
@@ -27,6 +32,7 @@ public class World {
         this.entityManager = new EntityManager();
         this.componentRegistry = new ComponentRegistry();
         this.fieldStore = new FieldStore();
+        this.resources = new HashMap<>();
         this.model = model;
     }
 
@@ -44,5 +50,9 @@ public class World {
 
     public SimulationModel getSimulationModel() {
         return this.model;
+    }
+
+    public Map<ResourceKey<?>, Object> getResources() {
+        return this.resources;
     }
 }
