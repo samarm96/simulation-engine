@@ -74,7 +74,7 @@ public class ComponentRegistry {
         return typed;
     }
 
-    public Iterable<Integer> entitiesWith(List<Class<? extends Component>> types) {
+    public List<Integer> entitiesWith(List<Class<? extends Component>> types) {
         if (types.isEmpty()) return List.of();
 
         // Find smallest store to iterate

@@ -22,7 +22,6 @@ public class CreateEntityCommand extends WorldCommand {
   @Override 
   public void apply(World w) {
     int childId = w.getEntityManager().create();
-    
     components.forEach(component -> w.getComponentRegistry().put(childId, component));
   }
 }
